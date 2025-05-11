@@ -1,12 +1,40 @@
-# React + Vite
+# Ujjaval Mishra's Portfolio 👨‍💻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi, I'm **Ujjaval Mishra**, a passionate **Frontend Developer** currently pursuing BTech in **CSE (AI)** from **ABES Institute of Technology, Ghaziabad**.
 
-Currently, two official plugins are available:
+This is my personal portfolio website built using **React.js** to showcase my projects, skills, and contact information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React.js
+- 🎨 CSS3
+- 📐 Responsive Web Design
+- 📁 AnchorLink for smooth scrolling
+
+---
+
+## 📸 Features
+
+- Hero section with introduction
+- Resume download/view
+- Smooth scroll navigation
+- Mobile-responsive design
+- Contact section to reach me directly
+
+---
+
+## 📬 Contact
+
+📧 Email: ujjavalmishra439@email.com  
+📱 LinkedIn: [linkedin.com/in/ujjavalmishra](https://linkedin.com/in/ujjavalmishra)  
+🌐 Portfolio: [your domain if deployed]
+
+## 📌 How to Run Locally
+
+```bash
+clone repo
+cd your-repo-name
+npm install
+npm start
