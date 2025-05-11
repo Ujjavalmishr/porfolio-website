@@ -19,6 +19,7 @@ This is my personal portfolio website built using **React.js** to showcase my pr
 
 - Hero section with introduction
 - Resume download/view
+- About me, My services, and My Latest Work section  
 - Smooth scroll navigation
 - Mobile-responsive design
 - Contact section to reach me directly
@@ -29,7 +30,8 @@ This is my personal portfolio website built using **React.js** to showcase my pr
 
 📧 Email: ujjavalmishra439@email.com  
 📱 LinkedIn: [www.linkedin.com/in/ujjaval-mishra-6974072a2] 
-🌐 Portfolio: [your domain if deployed]
+
+🌐 Portfolio: [https://porfolio-website-git-main-ujjaval-mishras-projects.vercel.app/]
 
 ## 📌 How to Run Locally
 
