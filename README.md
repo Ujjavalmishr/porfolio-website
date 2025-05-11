@@ -28,7 +28,7 @@ This is my personal portfolio website built using **React.js** to showcase my pr
 ## 📬 Contact
 
 📧 Email: ujjavalmishra439@email.com  
-📱 LinkedIn: [linkedin.com/in/ujjavalmishra](https://linkedin.com/in/ujjavalmishra)  
+📱 LinkedIn: [www.linkedin.com/in/ujjaval-mishra-6974072a2] 
 🌐 Portfolio: [your domain if deployed]
 
 ## 📌 How to Run Locally
